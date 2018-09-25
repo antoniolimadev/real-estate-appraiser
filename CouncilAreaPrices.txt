@@ -1,0 +1,30 @@
+nHabitacoes,CouncilName,buildingAreaPrice,landsizePrice
+93, Port Phillip City Council, 10944.2, 3599.8
+60, Stonnington City Council, 10906.6, 3630.2
+172, Boroondara City Council, 10094.5, 3346.1
+67, Yarra City Council, 9871.2, 2004.2
+111, Melbourne City Council, 9779.0, 5050.3
+62, Monash City Council, 8911.2, 2433.7
+66, Bayside City Council, 8904.0, 2815.9
+119, Glen Eira City Council, 7882.5, 2906.8
+162, Darebin City Council, 7582.3, 2667.4
+152, Moreland City Council, 7334.3, 2484.6
+30, Whitehorse City Council, 7161.6, 1916.6
+130, Moonee Valley City Council, 7057.8, 2547.2
+129, Maribyrnong City Council, 6914.4, 2117.4
+68, Hobsons Bay City Council, 6588.9, 2602.4
+63, Manningham City Council, 6561.9, 1982.4
+96, Banyule City Council, 6344.5, 1713.8
+54, Kingston City Council, 6048.3, 2023.2
+27, Maroondah City Council, 5845.8, 1297.6
+13, Greater Dandenong City Council, 5246.0, 1194.7
+21, Knox City Council, 5141.5, 1248.3
+105, Brimbank City Council, 4578.8, 1264.2
+9, Casey City Council, 4249.8, 1082.1
+26, Frankston City Council, 4139.5, 1035.8
+10, Nillumbik Shire Council, 4133.2, 1168.1
+89, Hume City Council, 4018.7, 1070
+5, Macedon Ranges Shire Council, 3993.3, 58.4
+51, Whittlesea City Council, 3725.4, 1263.9
+43, Wyndham City Council, 3635.7, 1038.2
+26, Melton City Council, 2648.7, 785.7

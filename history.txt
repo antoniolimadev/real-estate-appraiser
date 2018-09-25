@@ -1,0 +1,3 @@
+Rooms,Type,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Latitude,Longitude,Price,Retain
+2,u,2,2,2,0,95,2008,Stonnington City Council,-37.853,145.011,992960,1
+2,h,2,1,2,225,119,1910,Banyule City Council,-37.7501,145.0505,999776,1

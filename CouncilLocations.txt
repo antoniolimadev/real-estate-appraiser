@@ -1,0 +1,30 @@
+CouncilName,Latitude,Longitude
+Banyule City Council,-37.73143,145.08242
+Bayside City Council,-37.93334,145.01627
+Boroondara City Council,-37.83463,145.05949
+Brimbank City Council,-37.78303,144.83218
+Casey City Council,-38.01887,145.30139
+Darebin City Council,-37.72777,145.01627
+Frankston City Council,-38.14039,145.15966
+Glen Eira City Council,-37.88019,145.02262
+Greater Dandenong City Council,-37.98876,145.21353
+Hobsons Bay City Council,-37.86373,144.83102
+Hume City Council,-37.59869,144.82913
+Kingston City Council,-37.98189,145.10448
+Knox City Council,-37.87147,145.24802
+Macedon Ranges Shire Council,-37.48302,144.5856
+Manningham City Council,-37.78675,145.13256
+Maribyrnong City Council,-37.79507,144.88412
+Maroondah City Council,-37.80966,145.25907
+Melbourne City Council,-37.81361,144.96306
+Melton City Council,-37.68818,144.65337
+Monash City Council,-37.88219,145.16446
+Moonee Valley City Council,-37.7465,144.90613
+Moreland City Council,-37.72407,144.95017
+Nillumbik Shire Council,-37.68919,145.1087
+Port Phillip City Council,-37.83566,144.9445
+Stonnington City Council,-37.84763,144.99552
+Whitehorse City Council,-37.81743,145.18108
+Whittlesea City Council,-37.64528,145.06763
+Wyndham City Council,-37.9119,144.65337
+Yarra City Council,-37.79792,144.98872
